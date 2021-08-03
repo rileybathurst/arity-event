@@ -77,4 +77,4 @@ register_deactivation_hook( __FILE__, 'arityevents_deactivate' );
 */
 
 include_once plugin_dir_path( __FILE__ ) . 'event-date.php';
-include_once plugin_dir_path( __FILE__ ) . 'panel.js';
+// include_once plugin_dir_path( __FILE__ ) . 'panel.js';
